@@ -11,7 +11,7 @@ caesarCipher("dog", 3) // returns "grj"
 Write a function `digitalRoot` that receives a number and sums each digit until the sum is less than 10.
 ```js
 digitalRoot(121) // returns 4
-digitalRoot(746) // returns 17
+digitalRoot(746) // returns 8
 digitalRoot(6598) // returns 1
 ```
 
